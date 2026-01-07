@@ -4,16 +4,16 @@
 📍 Ankara, Turkey  
 📧 Email: **kaanalpgokce98@gmail.com**  
 🔗 GitHub: **github.com/Kag6**  
-🔗 LinkedIn: (profil linkini ekle)  
+🔗 LinkedIn: **https://www.linkedin.com/in/kaan-alp-g%C3%B6k%C3%A7e-bb3677154/**  
 
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am a Full-Stack Data Scientist and Applied Statistician who transforms data into decision-making systems.  
 My work spans **the full value chain**:
 
-👉 Data → Models → APIs → Dashboards → AI Agents → Business Impact  
+**Data → Models → APIs → Dashboards → AI Agents → Business Impact**  
 
 I specialize in:
 - ERP-integrated analytics
