@@ -2,8 +2,7 @@
 ###  Full-Stack Data Scientist | ERP, ML & Applied AI  
 
 📍 Ankara, Turkey  
-📧 Email: **kaanalpgokce98@gmail.com**  
-🔗 GitHub: **github.com/Kag6**  
+📧 Email: **kaanalpgokce98@gmail.com**   
 🔗 LinkedIn: **https://www.linkedin.com/in/kaan-alp-g%C3%B6k%C3%A7e-bb3677154/**  
 
 
