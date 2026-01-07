@@ -58,26 +58,26 @@ Hybrid ML + LLM decision-support systems
 - AI agents for predictions & reporting  
 - Local LLM experimentation  
 - Prompt engineering & inference logic  
-➡ Repo: *(add link)*
+
 
 ###  Time Series Demand Forecasting (Python & R)
 - Built ARIMA / Prophet / boosting ensembles  
 - Rolling forecast validation & error reduction  
-➡ Repo: *(add link)*
+
 
 ###  Predictive Maintenance Classifier
 - TensorFlow + scikit-learn pipelines  
 - SHAP-based interpretability  
-➡ Repo: *(add link)*
+
 
 ###  KPI Dashboards & BI Automation
 - Real-time Power BI + Shiny dashboards  
 - SQL-driven KPI layers across operations  
-➡ Repo: *(add link)*
+
 
 ###  NLP & Text Analytics
 - Topic models, TF-IDF, sentiment analysis  
-➡ Repo: *(add link)*
+
 
 ---
 
