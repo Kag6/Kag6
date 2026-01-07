@@ -1,5 +1,5 @@
-# 👋 Hi, I’m **Kaan Alp Gökçe**  
-### 📌 Full-Stack Data Scientist | ERP, ML & Applied AI  
+#  Hi, I’m **Kaan Alp Gökçe**  
+###  Full-Stack Data Scientist | ERP, ML & Applied AI  
 
 📍 Ankara, Turkey  
 📧 Email: **kaanalpgokce98@gmail.com**  
@@ -26,7 +26,7 @@ I am passionate about building data products that solve real business problems a
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 **Languages & Analytics**
 - Python (pandas, NumPy, scikit-learn, statsmodels, XGBoost, TensorFlow)
@@ -50,45 +50,45 @@ I am passionate about building data products that solve real business problems a
 
 ---
 
-## 📈 Featured Projects
+##  Featured Projects
 Click repositories for full code and documentation.
 
-### ⭐ AI Engineering & Applied LLM Development
+###  AI Engineering & Applied LLM Development
 Hybrid ML + LLM decision-support systems  
 - AI agents for predictions & reporting  
 - Local LLM experimentation  
 - Prompt engineering & inference logic  
 ➡ Repo: *(add link)*
 
-### ⭐ Time Series Demand Forecasting (Python & R)
+###  Time Series Demand Forecasting (Python & R)
 - Built ARIMA / Prophet / boosting ensembles  
 - Rolling forecast validation & error reduction  
 ➡ Repo: *(add link)*
 
-### ⭐ Predictive Maintenance Classifier
+###  Predictive Maintenance Classifier
 - TensorFlow + scikit-learn pipelines  
 - SHAP-based interpretability  
 ➡ Repo: *(add link)*
 
-### ⭐ KPI Dashboards & BI Automation
+###  KPI Dashboards & BI Automation
 - Real-time Power BI + Shiny dashboards  
 - SQL-driven KPI layers across operations  
 ➡ Repo: *(add link)*
 
-### ⭐ NLP & Text Analytics
+###  NLP & Text Analytics
 - Topic models, TF-IDF, sentiment analysis  
 ➡ Repo: *(add link)*
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 - MLOps (Prefect, Airflow)
 - Fine-tuning small LLMs
 - Production AI integration
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 I’m open to:
 - Collaboration
 - Freelance or consulting projects
